@@ -19,7 +19,7 @@ public class ExercicioClassRoom2 {
 		else {
 			if(nota >= 90)
 			
-			System.out.println("Parabéns");
+			System.out.println("Aprovado, Parabéns!");
 			
 			else { System.out.println("reprovado");
 		}
